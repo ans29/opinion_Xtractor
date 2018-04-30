@@ -1,0 +1,1 @@
+A project based on research paper "Mining opinions in customer reviews" by Minqin Hu and Bing Liu.
